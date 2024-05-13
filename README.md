@@ -10,5 +10,9 @@ A game about underwater adventures in the genre of survival horror
 ## Видеодемонстрация/Videodemonstration
 [![Video Demonstration](https://img.youtube.com/vi/WN9X6jALkkk/0.jpg)](https://www.youtube.com/watch?v=WN9X6jALkkk)
 
+## Figma Jam
+![figJam](/screenshots/figJam.png)
+[VRGame.jam](VRGame.jam)
+
 ## Game Link
 [ITCH.IO](https://chfirchco.itch.io/call-of-the-depths-vr)
